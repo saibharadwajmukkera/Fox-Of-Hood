@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #1c1f26;
+  height: 80px;
+  padding: 0 20px;
+  color: #d3d7db;
+  font-size: 20px;
+  border-bottom: 2px solid #00d1b2;
+  box-shadow: 0 4px 15px rgba(0, 209, 178, 0.2);
+}
+
+.navbar .logo {
+  margin-right: auto;
+  color: #ffdd57;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 24px;
+}
+
+.status {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.invested,
+.current-standing {
+  margin: 5px 0;
+  color: #d3d7db;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.invested {
+  color: #00d1b2;
+}
+
+.current-standing {
+  color: #ffdd57;
+}
