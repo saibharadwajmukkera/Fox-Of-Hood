@@ -1,5 +1,6 @@
-# Fox-Of-Hood
-Fox of Hood is a Web App developed using ReactJS and NodeJS for DB integration.
+# Fox of Hood
+
+This is a Web App developed using ReactJS and NodeJS for DB integration.
 
 ## Steps to run the program on local development environment
 
